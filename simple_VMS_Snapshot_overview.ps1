@@ -1,7 +1,7 @@
 ﻿<#
 Author: Tim Zelle
 Purpose: Find snapshots.
-seletion of all vms on selected cluster to check the snapshot
+selection of all vms on selected cluster to check the snapshot
 includes function to select cluster.
 includes function to choose type of snapshot to find.
 to do: function for The VCenter you are connecting too.

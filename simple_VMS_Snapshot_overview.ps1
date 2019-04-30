@@ -15,8 +15,8 @@ function show-menu
         [string]$title = 'options' 
     )
     clear-host
-    Write-Host "=======$title======="
-    write-host "1: Option 1: Find all snapshots NOT related to VEEAM"
+    Write-Host "~~~~~~$title~~~~~~"
+    write-host "1: Option 1: Find snapshots NOT made by VEEAM"
     Write-Host "2: Option 2: Find all snapshots  made by VEEAM backup" 
     Write-Host "Q: Option to quit"
 }
